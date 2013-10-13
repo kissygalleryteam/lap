@@ -16,7 +16,7 @@ KISSY.add(function(S) {
 //        runningLap = null,
     var defConfig = {
             duration: 300,
-            delay: 50
+            delay: 100
         },
         lapQueue = [];
 
