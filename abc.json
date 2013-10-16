@@ -1,7 +1,7 @@
 {
     "name": "lap",
     "version": "0.1",
-    "desc": "",
+    "desc": "对大数组的分批处理控制工具",
     "cover": "",
     "tag":"",
     "author": {
