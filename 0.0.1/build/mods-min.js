@@ -1,0 +1,1 @@
+KISSY.config("modules",{"kg/lap/0.0.1/index":{requires:["event"]}});
